@@ -1,0 +1,29 @@
+﻿.card {
+    margin-top: 5%;
+    width: auto;
+    height: auto;
+    padding: 5%;
+    background-color: rgba(0,0,0,0.8);
+    font-weight: bold;
+    color: palegoldenrod;
+    font-weight: bold;
+}
+
+.card-title {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.projects {
+    display: inline;
+}
+
+.first, .second, .third, .forth {
+    width: 300px;
+    height: 150px;
+    margin-right: 2%;
+}
+
+.second, .forth {
+    margin-left: 5%;
+}
